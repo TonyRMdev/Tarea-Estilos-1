@@ -1,0 +1,18 @@
+/* Hoja de estilos */
+/*Cambiar el color del texto de los encabezados*/
+h1, h2 {
+    color: #fe6404;
+}
+/*Cambiar el tipo de letra a la listas dentro de las secciones */
+section ul {
+    font-family: Georgia,Helvetica, sans-serif;
+}
+/*Cambiar el color del texto de la lista de ropa */
+.ropa li {
+    color:rgb(0, 148, 37);
+}
+/* Cambiar el color de fondo del footer (pie de página) */
+footer {
+    background-color: black;
+    color:#fff;
+}
